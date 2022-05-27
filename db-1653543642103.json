@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan carlos",
+      "empresa": "Waras",
+      "email": "reimer1693@gmail.com",
+      "telefono": "949972514",
+      "notas": "cliente solicita prodicuto",
+      "id": 1
+    },
+    {
+      "nombre": "juan carlos",
+      "empresa": "Waras",
+      "email": "reimer1693@gmail.com",
+      "telefono": "949972514",
+      "notas": "cliente solicita prodicuto",
+      "id": 2
+    },
+    {
+      "nombre": "karen",
+      "empresa": "karen diseño",
+      "email": "karen@karen.com",
+      "telefono": "948245142451",
+      "notas": "karen cotiza toner",
+      "id": 3
+    },
+    {
+      "nombre": "juan c",
+      "empresa": "empresa sac",
+      "email": "corrreo@correo.com",
+      "telefono": "949542414154",
+      "notas": "dieños",
+      "id": 4
+    }
+  ]
+}

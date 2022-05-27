@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan actualizado",
+      "empresa": "Waras",
+      "email": "reimer1693@gmail.com",
+      "telefono": "949972514",
+      "notas": "cliente solicita prodicuto",
+      "id": 1
+    },
+    {
+      "nombre": "juan pablo",
+      "empresa": "Waras",
+      "email": "reimer1693@gmail.com",
+      "telefono": "949972514",
+      "notas": "cliente solicita prodicuto",
+      "id": 2
+    },
+    {
+      "nombre": "juan c",
+      "empresa": "empresa sac",
+      "email": "corrreo@correo.com",
+      "telefono": "949542414154",
+      "notas": "dieños",
+      "id": 4
+    },
+    {
+      "nombre": "pedro perez",
+      "empresa": "waras 2",
+      "email": "correo@pedro.com",
+      "telefono": "949972515",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
